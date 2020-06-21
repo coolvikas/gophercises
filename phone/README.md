@@ -56,7 +56,7 @@ When your program is done your database entries should look like this (the order
 1234567893
 1234567894
 ```
-
+To install postgres db use this [link](https://www.calhoun.io/how-to-install-postgresql-9-5-on-ubuntu-16-04/)
 
 ## Bonus
 
